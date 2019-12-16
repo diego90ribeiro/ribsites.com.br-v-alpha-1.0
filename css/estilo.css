@@ -1,0 +1,94 @@
+@charset "utf-8";
+/* CSS Document */
+.alfa{
+	font-family: 'Chilanka', cursive;
+	size: 8px;
+	background: #158f2a;
+	padding: 3px;
+	border-radius: 3px;
+	color: #cccccc;
+	font-weight: lighter;
+}
+.logo{
+	color:#f93;
+}
+.fonte-chilanka{
+	font-family: 'Chilanka', cursive;
+}
+.fonte-roboto{
+	font-family: 'Roboto', sans-serif;
+	font-weight: lighter;
+}
+.bg-trasn{
+	background-color: rgba(88, 84, 73, 0.8);
+	padding:18px;
+	text-align: justify;
+	border-radius: 10px;
+}
+.bg-trasn2{
+	background-color:rgba(51,51,51,0.9);
+}
+.fonte-muli{
+	font-family: 'Muli', sans-serif;
+}
+.fonte35{
+	
+	font-size:25px;
+	font-weight:500;
+}
+.fundo{
+	background:url(../img/bg-cidade.jpg);
+	background-attachment: fixed;
+	background-size:cover;
+	height:auto; 
+	
+}
+.identy{
+	text-indent:50px;
+}
+.abaixa-top{
+	margin-top:100px;
+}
+.abaixa-top2{
+	margin-top:60px;
+}
+.fundo2{
+	background:#fff;
+	min-height:800px;
+}
+.branco{
+	color:#f9f9f9;
+}
+.vertical-center-top { /*alinhamento vertical*/
+  min-height: 100%;  
+  min-height: 100vh; 
+  
+
+  display:flex;
+  align-items: center;
+}
+
+.vertical-center { /*alinhamento vertical*/
+  min-height: 100%;  
+  min-height: 100vh; 
+
+  display:flex;
+  align-items: center;
+}
+#resposta {
+	width: 200px;
+	
+}
+.horizontal-center {
+    margin: 0 auto;
+    width: 80%;
+}
+.mg{
+	padding:12px;
+
+
+}
+.thin{
+	font-weight: lighter;
+}
+
